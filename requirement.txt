@@ -4,3 +4,8 @@ books
 fees
 studies
 anything else
+
+add money
+details
+student details
+programming details
